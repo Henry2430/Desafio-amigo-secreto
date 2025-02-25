@@ -2,7 +2,7 @@
 
 Descripción del Proyecto
 
-Desafio Amigo Secreto es una aplicación interactiva que permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleatorio para seleccionar a un "Amigo Secreto". La aplicación es ideal para juegos, intercambios de regalos y dinámicas de grupo.
+Desafio Amigo Secreto es un juego interactivo que permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleatorio para seleccionar a un "Amigo Secreto".
 
 Funcionalidades
 
